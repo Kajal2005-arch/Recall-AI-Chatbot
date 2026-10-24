@@ -1,0 +1,6 @@
+.venv/
+.env
+__pycache__/
+*.py[cod]
+chat_memory.db
+instance/

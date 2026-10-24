@@ -1,0 +1,4 @@
+Flask>=3.0,<4.0
+groq>=0.11.0
+crewai>=0.80.0
+python-dotenv>=1.0.0
